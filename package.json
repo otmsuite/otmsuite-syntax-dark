@@ -1,0 +1,19 @@
+{
+  "name": "otmsuite-syntax-dark",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Tema escuro para a linguagem da OTMSuíte",
+  "keywords": [
+    "syntax",
+    "theme",
+    "OTMSuíte",
+    "OTM",
+    "Suíte",
+    "Dark"
+  ],
+  "repository": "https://github.com/otmsuite/otmsuite-syntax-dark",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0"
+  }
+}
